@@ -1,2 +1,3 @@
-# VeldLink-2026
-Edge Gateway and Smart Sync solution designed to maintain reliable livestock export data synchronization in low-connectivity environments.
+# Sync Logic Fix Branch
+
+This branch was created to isolate and repair the Smart Sync transmission failure caused by intermittent power interruptions at remote Edge Gateways. The branch allows developers to test and validate sync recovery improvements without affecting the stable production environment.
